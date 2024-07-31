@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/07/31 13:01:19.728,=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/31 13:02:10.426,C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\acero.view.index.pas=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/31 13:02:10.426,C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\acero.view.index.fmx=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/07/31 13:02:15.142,C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\ACERP.dproj=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/31 13:02:25.998,C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\acerp.view.index.fmx=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\acero.view.index.fmx</Transaction>
+    <Transaction>2024/07/31 13:02:25.998,C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\acerp.view.index.pas=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\acero.view.index.pas</Transaction>
+    <Transaction>2024/07/31 13:06:19.852,C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\ACERP.dproj=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\src\view\ACERP.dproj</Transaction>
+    <Transaction>2024/07/31 13:10:46.535,=C:\Users\ALANO\Documents\Embarcadero\Studio\Projects\ACERP\Unit1.pas</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
